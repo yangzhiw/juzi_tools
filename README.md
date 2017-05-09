@@ -6,3 +6,4 @@
 - Brewery 3.0，mac版gif制作
 ### pdf
 - Smallpdf 轻松玩转pdf，支持各种pdf与文件的转换
+- 先进的在线工具，便可将MOBI个文件转换为EPUB。无需下载. 适用于 mac & windows
