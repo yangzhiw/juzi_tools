@@ -5,4 +5,4 @@
 - Honeycam最佳GIF创建和编辑程序（但没有找到mac版本的）
 - Brewery 3.0，mac版gif制作
 ### pdf
-  - Smallpdf 轻松玩转pdf，支持各种pdf与文件的转换
+- Smallpdf 轻松玩转pdf，支持各种pdf与文件的转换
