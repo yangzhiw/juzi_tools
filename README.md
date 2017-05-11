@@ -12,4 +12,4 @@
 - pinpoint [应用性能管理工具](https://github.com/naver/pinpoint)
 
 ## 团队协作
-tower 团队管理，已经接入了钉钉[tower](https://tower.im/)
+- tower 团队管理，已经接入了钉钉[tower](https://tower.im/)
