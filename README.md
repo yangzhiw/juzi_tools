@@ -10,10 +10,12 @@
 
 ### 在线工具
 - 云端在线图片格式转换，很全的一种工具[cloudconvert](https://cloudconvert.com/)
+- png级jpg图片压缩工具[TinyPNG](https://tinypng.com/)
+- 中文上传图片找字体http://www.qiuziti.com/
+- 英文上传图片找字体http://www.myfonts.com/WhatTheFont/
 
 ## 系统监控
 - pinpoint [应用性能管理工具](https://github.com/naver/pinpoint)
-- png级jpg图片压缩工具[TinyPNG](https://tinypng.com/)
 
 ## 团队协作
 - tower 团队管理，已经接入了钉钉[tower](https://tower.im/)
