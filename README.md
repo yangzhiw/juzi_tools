@@ -12,6 +12,7 @@
 - 云端在线图片格式转换，很全的一种工具[cloudconvert](https://cloudconvert.com/)
 - png级jpg图片压缩工具[TinyPNG](https://tinypng.com/)
 - jpg图片压缩工具http://www.jpegmini.com/ 需翻墙不推荐
+- 在线图片压缩优化器http://optimizilla.com/zh/
 - 中文上传图片找字体http://www.qiuziti.com/
 - 英文上传图片找字体http://www.myfonts.com/WhatTheFont/
 
