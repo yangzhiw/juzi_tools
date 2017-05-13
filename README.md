@@ -7,6 +7,7 @@
 ### pdf
 - Smallpdf 轻松玩转pdf，支持各种pdf与文件的转换
 - 先进的在线工具，便可将MOBI个文件转换为EPUB。无需下载. 适用于 mac & windows
+- 汇集众多常用PDF在线工具[PDFCandy](https://pdfcandy.com/#)
 
 ### 在线工具
 - 云端在线图片格式转换，很全的一种工具[cloudconvert](https://cloudconvert.com/)
