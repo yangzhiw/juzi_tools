@@ -15,6 +15,7 @@
 - 在线图片压缩优化器http://optimizilla.com/zh/
 - 中文上传图片找字体http://www.qiuziti.com/
 - 英文上传图片找字体http://www.myfonts.com/WhatTheFont/
+- 图片智能算法无损放大http://waifu2x.udp.jp/
 
 - 谷歌在线智能绘画工具https://www.autodraw.com/ 需要翻墙
 - 炫酷对称艺术纹理特效绘制这个很帅http://weavesilk.com/
