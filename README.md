@@ -17,6 +17,7 @@
 - 英文上传图片找字体http://www.myfonts.com/WhatTheFont/
 
 - 谷歌在线智能绘画工具https://www.autodraw.com/ 需要翻墙
+- 炫酷对称艺术纹理特效绘制这个很帅http://weavesilk.com/
 
 ## 系统监控
 - pinpoint [应用性能管理工具](https://github.com/naver/pinpoint)
